@@ -34,13 +34,11 @@ AcceptQuest:  [1002]
 <ce>                           waiting for you.
 
 QuestFail:  [1003]
-<ce>                       
-
-QuestComplete:  [1004]
 <ce>                       The spriggan is kindling?
 <ce>                      You are proving yourself to
 <ce>                       be quite reliable, %pct.
 
+QuestComplete:  [1004]
 <ce>                       Here is your _gold_ gold
 <ce>                             as promised.
 
@@ -136,7 +134,7 @@ Message:  1080
 <ce>               By the way, since I'm feelin' charitable,
 <ce>              here's a map to a hole called ___newdung_.
 <ce>              Full of monsters needin' killing, treasure
-<ce>                    to loot, the works.  Have fun.
+<ce>                    to loot, the works. Have fun.
 
 
 -- Symbols used in the QRC file:

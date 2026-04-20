@@ -10,7 +10,6 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using UnityEditor.PackageManager;
 using UnityEngine;
 
 namespace DaggerfallWorkshop.Game.Addons.RmbBlockEditor
